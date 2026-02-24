@@ -11,7 +11,7 @@ export default async function handler(req, res) {
       baseURL: "https://openrouter.ai/api/v1",
       defaultHeaders: {
         "HTTP-Referer": "https://your-vercel-domain.vercel.app",
-        "X-Title": "StatBot Pro"
+        "X-Title": "SheetSnap"
       }
     });
 
