@@ -1061,8 +1061,8 @@ COMPLETE DATASET CONTEXT:\n${fullCtx}`;
               <path d="M11 2L3 7v8l8 5 8-5V7L11 2z" stroke={C.accent} strokeWidth="1.5" fill="none"/>
               <path d="M11 2v18M3 7l8 5 8-5" stroke={C.accent} strokeWidth="1" opacity="0.5"/>
             </svg>
-            <span className="logo-txt">Sheet</span> Snap
-            <span className="logo-ai">AI</span>
+            <span className="logo-txt">Stat</span> Bot
+            <span className="logo-ai">Pro</span>
           </div>
           <div className="nav-tabs">
             {[["home","Home"],["upload","Upload"],["dashboard","Dashboard"],["summary","Summary"],["ask","✦ Ask AI"]].map(([t,l])=>(
@@ -1648,7 +1648,7 @@ COMPLETE DATASET CONTEXT:\n${fullCtx}`;
   color: C.muted
 }}>
   <div style={{ marginBottom: "8px" }}>
-  Made by <span style={{ color: C.accent, fontWeight: 700 }}>Addy</span> · Founder, SheetSnap
+  Made by <span style={{ color: C.accent, fontWeight: 700 }}>Addy</span> · Founder, StatBot-Pro
      </div>
 
   <div style={{ display: "flex", justifyContent: "center", gap: "18px" }}>
